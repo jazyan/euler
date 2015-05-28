@@ -1,1 +1,1 @@
-Project Euler problems solved in OCaml.
+Solutions to Project Euler problems.
